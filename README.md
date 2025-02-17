@@ -45,3 +45,5 @@ pip install -r requirements.txt
 
 # Corre la aplicación con el siguiente comando
 streamlit run app.py
+
+Render URL: https://proyecto-sprint-7-analisis-de-vehiculos.onrender.com
