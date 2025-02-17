@@ -3,8 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Leer el archivo CSV en un DataFrame
-df = pd.read_csv("C:/Users/luiss/OneDrive - Universidad Tecmilenio/Desktop/Proyecto Sprint 7/Sprint-7-Project/vehicles_us.csv")
-
+df = pd.read_csv("vehicles_us.csv")
 # Encabezado de la aplicación
 st.header("Análisis de Datos de Vehículos")
 
